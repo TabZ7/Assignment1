@@ -238,6 +238,16 @@ img{
     align-items: center;
     right: 50px;
 }
+ .container > .email {
+  margin-left: 750px;
+
+
+
+ } 
+
+
+
+
 
 .container > h2{
     color: #070211;
@@ -265,16 +275,115 @@ line-height: 30px;
 }
 
 
-.footer {
-    background-color: black;
+.background {
+  background-color: #070211;
+  width: 1740px;
+  height: 600px;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.background > img {
+  width: 60px;
+  height: 60px;
+  margin: 0;
+  padding-left: 0px ;
+
+}
+
+.Address{
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  color: white;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 450;
+  line-height: 30px; 
+
+}
+.number {
+
+  bottom:  10px;
+  right: 10px;
+  color: white;
+ 
+
+}.text {
+  position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
     color: white;
-    text-align: center;
-    padding: 10px;
+  
+}
+
+.icon {
+  margin-right: 150px;
+  margin-top: 100px;
+  width: 20px;
+  height: 20px;
+
   }
-  .icon {
-    height: 50px;
-    width: 50px;
-    margin: 5px;}
+
+  .website{
+    padding: 120px;
+    color: #FFF;
+   font-family: Inter;
+    font-size: 20px;
+   font-weight: 450;
+  }
+
+  .icon2 > img{
+    width: 20px;
+    height: 20px;
+  }
+
+
+  .cool { 
+    padding-top: 500px;
+    padding-right: 1420px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 450;
+
+
+}
+
+.Unsubscribe {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 100px;
+}
+
+
+
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
